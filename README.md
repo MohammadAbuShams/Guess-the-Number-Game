@@ -11,7 +11,7 @@ Welcome to the **Guess the Number Game**! This is a simple JavaScript-based game
 
 ## Demo
 
-You can play the game directly by visiting the live demo [here](https://your-github-pages-url.com).
+You can play the game directly by visiting the live demo [here](https://mohammadabushams.github.io/Guess-the-Number-Game/).
 
 ## How to Play
 
@@ -21,26 +21,6 @@ You can play the game directly by visiting the live demo [here](https://your-git
 4. Keep guessing until you find the correct number!
 5. Once you guess the number correctly, the game will display the number of attempts you've made.
 
-## Installation
-
-To run the game locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/guess-the-number-game.git
-    ```
-
-2. Navigate to the project folder:
-    ```bash
-    cd guess-the-number-game
-    ```
-
-3. Open the `index.html` file in your web browser:
-    ```bash
-    open index.html
-    ```
-
-That's it! Now you're ready to play.
 
 ## Technologies Used
 
